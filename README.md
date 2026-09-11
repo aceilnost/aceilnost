@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=aceilnost&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=./maintainer.sh&descAlignY=60&descSize=18" width="100%" alt="header banner" /> -->
 
-<div align="center>```
+
   █████╗  ██████╗███████╗██╗██╗     ███╗   ██╗ ██████╗ ███████╗████████╗
  ██╔══██╗██╔════╝██╔════╝██║██║     ████╗  ██║██╔═══██╗██╔════╝╚══██╔══╝
  ███████║██║     █████╗  ██║██║     ██╔██╗ ██║██║   ██║███████╗   ██║
@@ -11,7 +11,7 @@
  ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝   ╚═╝
         > booting maintainer.sh ... [ OK ]
         > status: building in public
-```</div>
+        
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" alt="terminal hacker animation" />
 
 </div>
