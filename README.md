@@ -12,9 +12,6 @@
                             > booting maintainer.sh ... [ OK ]
                             > status: building in public
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" alt="terminal hacker animation" />
-
 </div>
 
 ## Why I build in public
@@ -63,9 +60,13 @@ Public repositories are still being indexed. Once a project is pinned, it will b
 
 ## Contribute together
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" alt="coding vibe animation" />
-</p>
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aceilnost/aceilnost/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aceilnost/aceilnost/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aceilnost/aceilnost/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
 If the work is useful, open an issue, improve the docs, share a project, or start a conversation.
 
