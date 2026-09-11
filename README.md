@@ -2,6 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=aceilnost&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=./maintainer.sh&descAlignY=60&descSize=18" width="100%" alt="header banner" />
 
+```
+ █████╗  ██████╗███████╗██╗██╗     ███╗   ██╗ ██████╗ ███████╗████████╗
+██╔══██╗██╔════╝██╔════╝██║██║     ████╗  ██║██╔═══██╗██╔════╝╚══██╔══╝
+███████║██║     █████╗  ██║██║     ██╔██╗ ██║██║   ██║███████╗   ██║
+██╔══██║██║     ██╔══╝  ██║██║     ██║╚██╗██║██║   ██║╚════██║   ██║
+██║  ██║╚██████╗███████╗██║███████╗██║ ╚████║╚██████╔╝███████║   ██║
+╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝   ╚═╝
+        > booting maintainer.sh ... [ OK ]
+        > status: building in public
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" alt="terminal hacker animation" />
+
 </div>
 
 ## Why I build in public
@@ -35,18 +48,24 @@ Public repositories are still being indexed. Once a project is pinned, it will b
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceilnost&theme=radical&hide_border=true&background=0f0f0f&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="aceilnost streak stats" />
+<img src="https://streak-stats.demolab.com/?user=aceilnost&theme=radical&hide_border=true&background=0f0f0f&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="aceilnost streak stats" />
 </p>
 
 ## Contribution trail
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aceilnost&theme=react-dark&bg_color=0f0f0f&color=39ff14&line=39ff14&point=ffffff&hide_border=true" alt="aceilnost contribution trail" />
+<img src="https://ghchart.rshah.org/39ff14/aceilnost" alt="aceilnost contribution heatmap" width="100%" />
 </p>
+
+<sub>Grafik aktivitas komit tahunan, di-render dari <code>ghchart.rshah.org</code> — layanan ringan yang tidak bergantung pada Vercel/Heroku.</sub>
 
 <hr />
 
 ## Contribute together
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" alt="coding vibe animation" />
+</p>
 
 If the work is useful, open an issue, improve the docs, share a project, or start a conversation.
 
