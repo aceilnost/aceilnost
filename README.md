@@ -1,16 +1,10 @@
 <div align="center">
 
-<p><code>aceilnost@github ~ $ ./maintainer.sh</code></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=aceilnost&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=./maintainer.sh&descAlignY=60&descSize=18" width="100%" alt="header banner" />
 
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/system-scan?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="aceilnost animated maintainer system scan" />
-</picture>
-</p>
 </div>
 
-<h2>Why I build in public</h2>
+## Why I build in public
 
 <table width="100%">
 <tr>
@@ -20,58 +14,44 @@
 </tr>
 </table>
 
-<p>Building in public, documenting the work, and making the next contribution easier.</p>
+<p align="center">Building in public, documenting the work, and making the next contribution easier.</p>
 
-<h2>Open-source toolbox</h2>
-
-<p><code>aceilnost@github ~ $ toolbox --list</code></p>
+## Open-source toolbox
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/stack?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="aceilnost open-source technology toolbox" />
-</picture>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark" alt="aceilnost toolbox" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Tooling will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
+<p align="center"><sub>Tooling will grow as public repositories are indexed.</sub></p>
 
-<h2>Repositories worth exploring</h2>
-<p>Public repositories are still being indexed. Once a project is pinned, it will become a clear contribution entry point here.</p>
+## Repositories worth exploring
 
-<h2>Contribution activity</h2>
+Public repositories are still being indexed. Once a project is pinned, it will become a clear contribution entry point here.
+
+## Contribution activity
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/stats?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="aceilnost open-source signal" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=aceilnost&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" alt="aceilnost GitHub stats" />
 </p>
 
-<h2>Contribution trail</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceilnost&theme=radical&hide_border=true&background=0f0f0f&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="aceilnost streak stats" />
+</p>
+
+## Contribution trail
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-heatmap-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/heatmap?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="aceilnost contribution trail" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aceilnost&theme=react-dark&bg_color=0f0f0f&color=39ff14&line=39ff14&point=ffffff&hide_border=true" alt="aceilnost contribution trail" />
 </p>
 
 <hr />
 
-<h2>Contribute together</h2>
+## Contribute together
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+If the work is useful, open an issue, improve the docs, share a project, or start a conversation.
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-social-1&mode=light" />
-<img src="https://www.gitskins.com/api/section/social?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="aceilnost community links" />
-</picture>
+<a href="https://github.com/aceilnost"><img src="https://img.shields.io/badge/GitHub-aceilnost-39ff14?style=for-the-badge&logo=github&logoColor=black&labelColor=0f0f0f" alt="GitHub profile" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/aceilnost">GitHub</a></p>
-<p align="center"><sub>aceilnost · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>aceilnost · open-source profile</sub></p>
