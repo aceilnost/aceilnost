@@ -4,8 +4,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="aceilnost animated maintainer system scan" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/system-scan?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="aceilnost animated maintainer system scan" />
 </picture>
 </p>
 </div>
@@ -28,8 +28,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="aceilnost open-source technology toolbox" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/stack?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="aceilnost open-source technology toolbox" />
 </picture>
 </p>
 
@@ -46,8 +46,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="aceilnost open-source signal" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/stats?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="aceilnost open-source signal" />
 </picture>
 </p>
 
@@ -55,8 +55,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="aceilnost contribution trail" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-heatmap-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="aceilnost contribution trail" />
 </picture>
 </p>
 
@@ -66,9 +66,12 @@
 
 <p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="aceilnost community links" />
-</picture></p>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-social-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/social?username=aceilnost&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326105718%3Fu%3D4bfb0ef02b1a79cd0552252f3088831c0360bee8%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="aceilnost community links" />
+</picture>
+</p>
+
 <p align="center"><a href="https://github.com/aceilnost">GitHub</a></p>
 <p align="center"><sub>aceilnost · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
